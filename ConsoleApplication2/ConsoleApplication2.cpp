@@ -11,7 +11,7 @@ int main()
     foo(a);
 
     int i(0);
-    while (i < 9876)
+    while (i < 0)
     {
         std::cout << i++ << "  ";
     }
