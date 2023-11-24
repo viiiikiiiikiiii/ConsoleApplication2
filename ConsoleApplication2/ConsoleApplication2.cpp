@@ -17,10 +17,8 @@ int main()
         std::cout << i++ << "  ";
     }
 
-    for (int i(0); i < 9876; ++i)
-    {
-        std::cout << i << "  ";
-    }
+   
+  
 
     int i(0);
     while (i < 5)
@@ -28,13 +26,10 @@ int main()
         std::cout << i++ << "  ";
     }
 
-    for (int i(0); i < 9; ++i)
-    {
-        std::cout << i << "  ";
-    }
+    
 }
 
 
-}
+
 //зазмзмзммхзхмхарщз
 //з-пмхиххннгн7гш
