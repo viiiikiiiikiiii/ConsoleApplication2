@@ -11,15 +11,22 @@ int main()
     foo(a);
 
     int i(0);
+    while (i < 9876)
+    {
+        std::cout << i++ << "  ";
+    }
+
+    for (int i(0); i < 9876; ++i)
+    {
+        std::cout << i << "  ";
+    }
+
+    int i(0);
     while (i < 5)
     {
         std::cout << i++ << "  ";
     }
 
-    for (int i(0); i < 5; ++i)
-    {
-        std::cout << i << "  ";
-    }
 
 }
 
